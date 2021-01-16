@@ -1,0 +1,3 @@
+Curso de C++: 
+   Parei aqui:
+      https://www.learningcrux.com/video/learn-c-programming-beginner-to-advance-deep-dive-in-c/2/16
